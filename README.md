@@ -1,4 +1,4 @@
-rework_presentatio
-==================
+rework_presentation
+===================
 
-Presentation of Rework Jason Fried &amp; David Hansson
+Presentation of Rework Book from Jason Fried &amp; David Hansson
